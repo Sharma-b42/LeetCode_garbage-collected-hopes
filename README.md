@@ -59,6 +59,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0136-single-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -171,6 +172,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 ## Pigeonhole Principle
