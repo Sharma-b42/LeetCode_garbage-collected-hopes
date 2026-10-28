@@ -36,6 +36,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0649-dota2-senate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -82,6 +83,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0994-rotting-oranges](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -135,6 +137,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -144,6 +147,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -170,6 +174,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0374-guess-number-higher-or-lower](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -382,4 +387,5 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 <!---LeetCode Topics End-->
