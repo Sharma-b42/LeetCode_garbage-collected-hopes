@@ -74,6 +74,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
@@ -225,6 +226,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
