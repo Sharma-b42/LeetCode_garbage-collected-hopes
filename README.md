@@ -89,6 +89,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -151,6 +152,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -225,6 +227,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -413,4 +416,8 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
