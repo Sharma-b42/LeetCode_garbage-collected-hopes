@@ -88,6 +88,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
