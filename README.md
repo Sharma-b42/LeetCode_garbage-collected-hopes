@@ -80,6 +80,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -266,6 +267,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0394-decode-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0735-asteroid-collision](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
