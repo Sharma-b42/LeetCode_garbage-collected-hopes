@@ -62,6 +62,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -266,6 +267,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0394-decode-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -426,6 +428,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -433,4 +436,8 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
