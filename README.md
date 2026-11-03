@@ -33,6 +33,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0394-decode-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0443-string-compression](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0649-dota2-senate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
@@ -464,4 +465,16 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
