@@ -37,6 +37,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0482-license-key-formatting](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0649-dota2-senate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
+| [0796-rotate-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0831-masking-personal-information/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -469,6 +470,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0796-rotate-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0796-rotate-string/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
