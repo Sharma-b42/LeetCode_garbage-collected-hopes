@@ -72,6 +72,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0041-first-missing-positive](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0136-single-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
@@ -258,6 +259,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0001-two-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0041-first-missing-positive](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
