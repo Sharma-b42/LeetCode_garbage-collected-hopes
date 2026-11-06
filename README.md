@@ -122,6 +122,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
+| [1664-ways-to-make-a-fair-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -171,6 +172,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
