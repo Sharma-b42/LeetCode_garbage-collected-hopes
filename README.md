@@ -109,6 +109,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0994-rotting-oranges](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -188,6 +189,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
