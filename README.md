@@ -128,6 +128,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -211,6 +212,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1046-last-stone-weight](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
