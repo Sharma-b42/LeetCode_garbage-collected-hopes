@@ -75,6 +75,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -241,6 +242,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
