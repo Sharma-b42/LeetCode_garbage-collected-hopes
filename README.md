@@ -101,6 +101,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0636-exclusive-time-of-functions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0704-binary-search](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -241,6 +242,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0704-binary-search](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
