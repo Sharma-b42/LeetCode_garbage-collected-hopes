@@ -13,6 +13,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -56,6 +57,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -242,6 +244,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
