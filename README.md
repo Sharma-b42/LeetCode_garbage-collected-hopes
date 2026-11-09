@@ -49,6 +49,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +351,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2352-equal-row-and-column-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
