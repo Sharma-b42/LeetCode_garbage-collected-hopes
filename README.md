@@ -196,6 +196,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0147-insertion-sort-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -375,6 +376,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0147-insertion-sort-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
