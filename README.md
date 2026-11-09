@@ -112,6 +112,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0746-min-cost-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -189,6 +190,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +201,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -215,6 +218,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -513,6 +517,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
@@ -546,4 +551,16 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
