@@ -153,6 +153,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
@@ -183,6 +184,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
