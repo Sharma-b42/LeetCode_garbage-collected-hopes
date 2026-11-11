@@ -15,6 +15,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0345-reverse-vowels-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
+| [0481-magical-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -38,6 +39,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0443-string-compression](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0481-magical-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0481-magical-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0649-dota2-senate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
