@@ -7,6 +7,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -291,6 +292,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -313,6 +315,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -395,6 +398,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
