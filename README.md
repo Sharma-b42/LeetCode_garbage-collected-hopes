@@ -7,6 +7,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -79,6 +80,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -209,6 +211,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0147-insertion-sort-list/) | Medium |
