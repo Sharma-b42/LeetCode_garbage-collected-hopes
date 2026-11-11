@@ -64,6 +64,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0649-dota2-senate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
