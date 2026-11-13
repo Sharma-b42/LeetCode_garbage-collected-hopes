@@ -160,6 +160,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -313,6 +314,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -386,6 +388,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +402,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0933-number-of-recent-calls](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +558,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0739-daily-temperatures](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -612,8 +617,13 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
