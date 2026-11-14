@@ -56,6 +56,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
@@ -286,6 +287,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -578,6 +580,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0686-repeated-string-match](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +588,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -592,6 +596,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0459-repeated-substring-pattern](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -639,13 +644,19 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0214-shortest-palindrome/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 <!---LeetCode Topics End-->
