@@ -163,6 +163,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -208,6 +209,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1590-make-sum-divisible-by-p](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Hash Table
