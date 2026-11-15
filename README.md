@@ -54,6 +54,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
@@ -371,6 +372,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -402,6 +404,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0021-merge-two-sorted-lists](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0394-decode-string/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
