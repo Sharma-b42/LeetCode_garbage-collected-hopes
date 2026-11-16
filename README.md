@@ -54,6 +54,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -553,6 +554,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0077-combinations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
