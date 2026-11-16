@@ -31,6 +31,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0214-shortest-palindrome/) | Hard |
@@ -550,6 +551,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0077-combinations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0077-combinations/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
