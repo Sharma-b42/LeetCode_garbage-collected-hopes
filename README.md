@@ -99,6 +99,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0056-merge-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -340,6 +341,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0041-first-missing-positive](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -524,6 +526,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
