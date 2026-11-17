@@ -24,6 +24,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Prefix Sum
