@@ -73,6 +73,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0932-beautiful-array/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -135,6 +136,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0875-koko-eating-bananas](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0932-beautiful-array/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0994-rotting-oranges](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -349,6 +351,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0424-longest-repeating-character-replacement](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -529,6 +532,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0128-longest-consecutive-sequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1267-count-servers-that-communicate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -681,4 +685,12 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 <!---LeetCode Topics End-->
