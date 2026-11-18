@@ -167,6 +167,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -531,6 +532,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Union-Find
@@ -572,6 +574,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0093-restore-ip-addresses](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
