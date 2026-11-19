@@ -486,6 +486,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,6 +505,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -549,6 +551,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2076-process-restricted-friend-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -560,6 +563,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
