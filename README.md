@@ -181,6 +181,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -218,6 +219,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Prefix Sum
@@ -266,6 +268,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
