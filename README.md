@@ -506,6 +506,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -554,6 +555,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [1129-shortest-path-with-alternating-colors](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
