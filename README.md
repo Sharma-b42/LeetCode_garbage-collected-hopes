@@ -136,6 +136,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0735-asteroid-collision](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0815-bus-routes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0815-bus-routes/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -363,6 +364,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0424-longest-repeating-character-replacement](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0815-bus-routes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0815-bus-routes/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
@@ -504,6 +506,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0463-island-perimeter](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0815-bus-routes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0815-bus-routes/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
