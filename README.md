@@ -274,6 +274,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -489,6 +490,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0437-path-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -508,6 +510,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0815-bus-routes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0815-bus-routes/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -559,6 +562,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
@@ -587,6 +591,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -749,4 +754,8 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
