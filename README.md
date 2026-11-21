@@ -281,6 +281,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -572,6 +573,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -592,6 +594,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
