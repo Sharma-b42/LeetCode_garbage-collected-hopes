@@ -285,6 +285,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -299,6 +300,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +578,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -595,6 +598,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0399-evaluate-division](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
