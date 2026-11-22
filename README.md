@@ -175,6 +175,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1929-concatenation-of-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -383,6 +384,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1590-make-sum-divisible-by-p](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -487,6 +489,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Depth-First Search
@@ -550,6 +553,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
