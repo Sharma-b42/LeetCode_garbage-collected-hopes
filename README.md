@@ -484,6 +484,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0687-longest-univalue-path](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -502,6 +503,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0437-path-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0687-longest-univalue-path](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -548,6 +550,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0687-longest-univalue-path](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -558,6 +561,7 @@ __This contains all the LeetCode solutions of mine.__
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
