@@ -487,6 +487,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -549,6 +550,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
