@@ -185,6 +185,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -293,6 +294,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2462-total-cost-to-hire-k-workers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -330,6 +332,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +448,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -678,6 +682,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0739-daily-temperatures](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -743,11 +748,13 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
