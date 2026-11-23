@@ -116,6 +116,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0238-product-of-array-except-self](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
@@ -244,6 +245,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0932-beautiful-array/) | Medium |
@@ -301,6 +303,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -738,10 +741,12 @@ __This contains all the LeetCode solutions of mine.__
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Treap
@@ -790,4 +795,8 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
