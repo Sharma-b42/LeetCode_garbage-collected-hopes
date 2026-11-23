@@ -487,6 +487,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0450-delete-node-in-a-bst](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -553,6 +554,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0450-delete-node-in-a-bst](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -577,6 +579,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
