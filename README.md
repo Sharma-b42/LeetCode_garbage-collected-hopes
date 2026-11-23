@@ -136,6 +136,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0704-binary-search](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0731-my-calendar-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -234,6 +235,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0731-my-calendar-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -307,6 +309,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0232-implement-queue-using-stacks](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
+| [0731-my-calendar-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -325,6 +328,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
+| [0731-my-calendar-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -642,6 +646,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0731-my-calendar-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Interactive
@@ -754,6 +759,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0731-my-calendar-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Treap
