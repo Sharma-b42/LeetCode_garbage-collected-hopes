@@ -691,6 +691,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 ## Monotonic Stack
