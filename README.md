@@ -49,6 +49,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0520-detect-capital](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0649-dota2-senate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0649-dota2-senate/) | Medium |
 | [0686-repeated-string-match](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0686-repeated-string-match/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0796-rotate-string](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0831-masking-personal-information/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -138,6 +139,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0731-my-calendar-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0731-my-calendar-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -269,6 +271,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0912-sort-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
@@ -392,6 +395,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0424-longest-repeating-character-replacement](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0720-longest-word-in-dictionary](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0815-bus-routes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0815-bus-routes/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -687,6 +691,7 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0720-longest-word-in-dictionary](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1268-search-suggestions-system](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1268-search-suggestions-system/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
