@@ -280,6 +280,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1311-get-watched-videos-by-your-friends](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -617,6 +618,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1311-get-watched-videos-by-your-friends](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -634,6 +636,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0547-number-of-provinces](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1267-count-servers-that-communicate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -834,4 +837,24 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+## Strongly Connected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 <!---LeetCode Topics End-->
