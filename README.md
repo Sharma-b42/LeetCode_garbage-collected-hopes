@@ -171,6 +171,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1480-running-sum-of-1d-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
@@ -620,6 +621,7 @@ __This contains all the LeetCode solutions of mine.__
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
@@ -637,6 +639,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0952-largest-component-size-by-common-factor](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1267-count-servers-that-communicate](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2076-process-restricted-friend-requests](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -841,6 +844,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Strongly Connected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -849,12 +853,15 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Kruskal's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Borůvka's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
