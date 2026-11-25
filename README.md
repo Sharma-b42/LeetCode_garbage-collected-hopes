@@ -204,6 +204,7 @@ __This contains all the LeetCode solutions of mine.__
 | [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +351,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,6 +420,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2747-count-zero-request-servers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -799,12 +802,14 @@ __This contains all the LeetCode solutions of mine.__
 | [0214-shortest-palindrome](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -813,6 +818,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
