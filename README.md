@@ -111,6 +111,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0084-largest-rectangle-in-histogram](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -211,6 +212,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0135-candy](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0135-candy/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
