@@ -74,6 +74,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0384-shuffle-an-array](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0384-shuffle-an-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -228,6 +229,7 @@ __This contains all the LeetCode solutions of mine.__
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
@@ -701,6 +703,7 @@ __This contains all the LeetCode solutions of mine.__
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
