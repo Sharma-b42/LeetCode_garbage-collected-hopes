@@ -211,6 +211,7 @@ __This contains all the LeetCode solutions of mine.__
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3934-smallest-unique-subarray](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@ __This contains all the LeetCode solutions of mine.__
 | [2542-maximum-subsequence-score](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@ __This contains all the LeetCode solutions of mine.__
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
