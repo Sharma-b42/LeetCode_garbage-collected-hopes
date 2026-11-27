@@ -137,6 +137,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0463-island-perimeter](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0605-can-place-flowers](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -235,6 +236,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0338-counting-bits](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0790-domino-and-tromino-tiling/) | Medium |
@@ -697,6 +699,7 @@ __This contains all the LeetCode solutions of mine.__
 | [0077-combinations](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0494-target-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -885,4 +888,12 @@ __This contains all the LeetCode solutions of mine.__
 | ------- | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Sharma-b42/LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
